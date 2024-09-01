@@ -1,4 +1,4 @@
-# awesome-widows-softwares
+# awesome-widows-software
 Windows系统内好用的软件列表,备份防止忘记
 
 - 1.轻量全局搜索工具 everything
